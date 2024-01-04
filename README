@@ -1,0 +1,5 @@
+```
+ifconfig // if調べる
+cargo build
+sudo ./target/debug/packet-capture en0
+```
